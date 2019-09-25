@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.425"
+   height="198.425"
+   viewBox="0 0 198.425 198.425"
+   version="1.1"
+   id="svg416"
+   sodipodi:docname="hypergraph-hex.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/chjh/Downloads/hypergraph.png"
+   inkscape:export-xdpi="927.24744"
+   inkscape:export-ydpi="927.24744">
+  <metadata
+     id="metadata422">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs420" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="959"
+     inkscape:window-height="1051"
+     id="namedview418"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="81.961975"
+     inkscape:cy="58.633347"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7">
+    <inkscape:grid
+       type="xygrid"
+       id="grid463" />
+  </sodipodi:namedview>
+  <path
+     fill="#FFF"
+     d="M39.425 133.768v-69.11l60-34.561 60 34.561v69.11l-60 34.56z"
+     id="path412" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Blocks"
+     style="opacity:1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Block1"
+       style="opacity:0.8">
+      <rect
+         id="rect424"
+         width="66.776543"
+         height="66.221001"
+         x="89.64846"
+         y="66.101997"
+         style="fill:#ffa19b;stroke-width:0.99683446;fill-opacity:1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Block2"
+       style="opacity:0.8">
+      <rect
+         id="rect424-5"
+         width="66.361084"
+         height="66.083954"
+         x="102.23679"
+         y="-21.576668"
+         style="fill:#ca7c98;stroke-width:0.99269986;fill-opacity:1"
+         transform="matrix(0.86421058,0.50313027,-0.49687625,0.8678214,0,0)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Block3"
+       style="opacity:0.8">
+      <rect
+         id="rect424-3"
+         width="66.674385"
+         height="66.187248"
+         x="2.7369397"
+         y="77.870895"
+         style="fill:#8d5c83;stroke-width:0.99581778;fill-opacity:1"
+         transform="matrix(0.86558265,-0.5007661,0.49923426,0.86646705,0,0)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Block4"
+       style="opacity:0.8">
+      <rect
+         id="rect424-56"
+         width="66.776543"
+         height="66.221001"
+         x="41.244869"
+         y="66.102005"
+         style="fill:#553864;stroke-width:0.99683446;fill-opacity:1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Block5"
+       style="opacity:0.8">
+      <rect
+         id="rect424-2"
+         width="66.541702"
+         height="66.455269"
+         x="101.61082"
+         y="28.305382"
+         style="fill:#372a50;stroke-width:0.99683869;fill-opacity:1"
+         transform="matrix(0.8690818,0.4946684,-0.49823738,0.86704066,0,0)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Block6"
+       style="opacity:0.8">
+      <rect
+         id="rect424-1"
+         width="66.776543"
+         height="66.221001"
+         x="2.5299847"
+         y="126.58659"
+         style="fill:#282044;stroke-width:0.99683446;fill-opacity:1"
+         transform="rotate(-30)" />
+    </g>
+    <path
+       d="M98.925 32.983l57.5 33.119v66.221l-57.5 33.119-57.5-33.119V66.102l57.5-33.119zm0-5.771l-62.5 36v72.001l62.5 36 62.5-36V63.212l-62.5-36z"
+       id="path414"
+       fill="#050507"
+       style="fill:#ffffff" />
+  </g>
+</svg>
