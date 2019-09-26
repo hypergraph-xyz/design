@@ -1,4 +1,4 @@
-# designs
+# Hypergraph designs <img src="hypergraph-hex-256.png" align="right" height="150" />
 The Hypergraph designs, centralized in this repository for ease of reuse and findability.
 
 ## Color scheme
