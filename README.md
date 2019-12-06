@@ -1,5 +1,6 @@
 # Hypergraph designs <img src="hypergraph-hex-256.png" align="right" height="150" />
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
 The Hypergraph designs, centralized in this repository for ease of reuse and findability.
 
 ## Color scheme
