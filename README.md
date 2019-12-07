@@ -1,5 +1,5 @@
 # Hypergraph designs <img src="hypergraph-logomark-256.png" align="right" height="150" />
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 The Hypergraph designs, centralized in this repository for ease of reuse and findability.
 
@@ -25,7 +25,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt="Chris Hartgerink"/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="#design-chartgerink" title="Design">🎨</a></td>
-        <td align="center"><a href="https://sobrakseaton.com/"><img src="https://avatars1.githubusercontent.com/u/28573875?s=460&v=4" width="100px;" alt="Patch Sobrak-Seaton"/><br /><sub><b>Patch Sobrak-Seaton</b></sub></a><br /><a href="#design-sobrakseaton" title="Design">🎨</a></td>
   </tr>
 </table>
 
