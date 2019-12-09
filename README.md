@@ -9,12 +9,12 @@ The color scheme is inspired by [@aatishb](https://twitter.com/aatishb/status/11
 
 | [Color name](http://chir.ag/projects/name-that-color/) | RGB | Hex |
 | ----- | --- | --- |
-| [Port Gore](http://chir.ag/projects/name-that-color/#282044) | 40, 32, 68 | #282044 |
-| [Martinique](http://chir.ag/projects/name-that-color/#372A50) | 55, 42, 80 | #372a50 |
-| [Voodoo](http://chir.ag/projects/name-that-color/#553864) | 85, 56, 100 | #553864 |
-| [Strikemaster](http://chir.ag/projects/name-that-color/#8d5c83) | 141, 92, 131 | #8d5c83 |
-| [Puce](http://chir.ag/projects/name-that-color/#ca7c98) | 202, 124, 152 | #ca7c98 |
-| [Mona Lisa](http://chir.ag/projects/name-that-color/#ffa19b) | 255, 161, 155 | #ffa19b |
+| [Steel Gray](http://chir.ag/projects/name-that-color/#2A2440) | 42, 36, 64 | #2A2440 |
+| [Martinique](http://chir.ag/projects/name-that-color/#362C4A) | 54, 44, 74 | #362C4A |
+| [Voodoo](http://chir.ag/projects/name-that-color/#4E375A) | 78, 55, 90 | #4E375A |
+| [Falcon](http://chir.ag/projects/name-that-color/#7B5473) | 123, 84, 115 | #7B5473 |
+| [Turkish Rose](http://chir.ag/projects/name-that-color/#AC6D84) | 172, 109, 132 | #AC6D84 |
+| [My Pink](http://chir.ag/projects/name-that-color/#D68B86) | 214, 139, 134 | #D68B86 |
 
 ## Contributors ✨
 
