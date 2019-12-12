@@ -9,12 +9,12 @@ The color scheme is inspired by [@aatishb](https://twitter.com/aatishb/status/11
 
 | [Color name](http://chir.ag/projects/name-that-color/) | RGB | Hex |
 | ----- | --- | --- |
-| [Steel Gray](http://chir.ag/projects/name-that-color/#2A2440) | 42, 36, 64 | #2A2440 |
-| [Martinique](http://chir.ag/projects/name-that-color/#362C4A) | 54, 44, 74 | #362C4A |
-| [Voodoo](http://chir.ag/projects/name-that-color/#4E375A) | 78, 55, 90 | #4E375A |
-| [Falcon](http://chir.ag/projects/name-that-color/#7B5473) | 123, 84, 115 | #7B5473 |
-| [Turkish Rose](http://chir.ag/projects/name-that-color/#AC6D84) | 172, 109, 132 | #AC6D84 |
-| [My Pink](http://chir.ag/projects/name-that-color/#D68B86) | 214, 139, 134 | #D68B86 |
+| [Port Gore](http://chir.ag/projects/name-that-color/#292045) | 41, 32, 69 | #292045 |
+| [Bossanova](http://chir.ag/projects/name-that-color/#382854) | 56, 40, 84 | #382854 |
+| [Bossanova (2)](http://chir.ag/projects/name-that-color/#52386F) | 82, 56, 111 | #52386F |
+| [Trendy Pink](http://chir.ag/projects/name-that-color/#79527D) | 121, 82, 125 | #79527D |
+| [Puce](http://chir.ag/projects/name-that-color/#C87C97) | 200, 124, 151 | #C87C97 |
+| [Cornflower Lilac](http://chir.ag/projects/name-that-color/#FFB2AE) |255, 178, 174 | #FFB2AE |
 
 ## Contributors ✨
 
