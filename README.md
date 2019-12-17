@@ -3,18 +3,14 @@
 
 The Hypergraph designs, centralized in this repository for ease of reuse and findability.
 
-## Color scheme
+## Wiki
 
-The color scheme is inspired by [@aatishb](https://twitter.com/aatishb/status/1167546486005129216?s=20) and provides the various colors included in the logo. This is the primary color scheme across all Hypergraph instances, where relevant. This allows for consistency across the instances. Bonus: [it is pretty friendly for various types of color blindness](https://www.color-blindness.com/coblis-color-blindness-simulator/). 
-
-| [Color name](http://chir.ag/projects/name-that-color/) | RGB | Hex |
-| ----- | --- | --- |
-| [Port Gore](http://chir.ag/projects/name-that-color/#292045) | 41, 32, 69 | #292045 |
-| [Bossanova](http://chir.ag/projects/name-that-color/#382854) | 56, 40, 84 | #382854 |
-| [Bossanova (2)](http://chir.ag/projects/name-that-color/#52386F) | 82, 56, 111 | #52386F |
-| [Trendy Pink](http://chir.ag/projects/name-that-color/#79527D) | 121, 82, 125 | #79527D |
-| [Puce](http://chir.ag/projects/name-that-color/#C87C97) | 200, 124, 151 | #C87C97 |
-| [Cornflower Lilac](http://chir.ag/projects/name-that-color/#FFB2AE) |255, 178, 174 | #FFB2AE |
+* [Branding](https://github.com/hypergraph-xyz/design/wiki/Branding)
+* [Colors](https://github.com/hypergraph-xyz/design/wiki/Colors)
+* [Components](https://github.com/hypergraph-xyz/design/wiki/Components)
+* [Icons and Assets](https://github.com/hypergraph-xyz/design/wiki/Icons-and-Assets)
+* [Resources](https://github.com/hypergraph-xyz/design/wiki/Resources)
+* [Typography](https://github.com/hypergraph-xyz/design/wiki/Typography)
 
 ## Contributors ✨
 
