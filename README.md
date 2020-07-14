@@ -1,7 +1,7 @@
 # Hypergraph designs <img src="hypergraph-logomark-256.png" align="right" height="150" />
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-The Hypergraph designs, centralized in this repository for ease of reuse and findability.
+The Hypergraph designs, centralized in this repository for ease of reuse and findability. Available under [CC0 Public Domain Dedication](./LICENSE).
 
 ## Wiki
 
