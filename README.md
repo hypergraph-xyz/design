@@ -14,7 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="#design-chartgerink" title="Design">🎨</a></td>
+    <td align="center"><a href="https://chjh.nl"><img src="https://avatars0.githubusercontent.com/u/2946344?v=4" width="100px;" alt=""/><br /><sub><b>Chris Hartgerink</b></sub></a><br /><a href="#design-chartgerink" title="Design">🎨</a> <a href="#financial-chartgerink" title="Financial">💵</a></td>
     <td align="center"><a href="http://sobrakseaton.com"><img src="https://avatars3.githubusercontent.com/u/28573875?v=4" width="100px;" alt=""/><br /><sub><b>Patch Sobrak-Seaton</b></sub></a><br /><a href="#design-psobrakseaton" title="Design">🎨</a> <a href="#maintenance-psobrakseaton" title="Maintenance">🚧</a></td>
   </tr>
 </table>
