@@ -1,16 +1,11 @@
-# Hypergraph designs <img src="hypergraph-logomark-256.png" align="right" height="150" />
+# Hypergraph designs <img src="https://raw.githubusercontent.com/hypergraph-xyz/design/main/hypergraph-logomark-1024-square.png" align="right" height="64" />
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 The Hypergraph designs, centralized in this repository for ease of reuse and findability. Available under [CC0 Public Domain Dedication](./LICENSE).
-
-## Wiki
-
-* [Branding](https://github.com/hypergraph-xyz/design/wiki/Branding)
-* [Colors](https://github.com/hypergraph-xyz/design/wiki/Colors)
-* [Components](https://github.com/hypergraph-xyz/design/wiki/Components)
-* [Icons and Assets](https://github.com/hypergraph-xyz/design/wiki/Icons-and-Assets)
-* [Resources](https://github.com/hypergraph-xyz/design/wiki/Resources)
-* [Typography](https://github.com/hypergraph-xyz/design/wiki/Typography)
 
 ## Contributors ✨
 
